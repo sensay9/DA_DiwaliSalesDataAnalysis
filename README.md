@@ -1,5 +1,7 @@
 # Diwali Sales Data Analysis
 
+![Diwali Sales Data](https://github.com/sensay9/DA_DiwaliSalesDataAnalysis/assets/62778520/d544d2ec-aa43-41b6-8620-0789c5bdfa12)
+
 This project focuses on analyzing Diwali sales data using the Python programming language along with libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The objective is to extract insights from the dataset and understand purchasing patterns across various demographics and product categories.
 
 ## Overview
